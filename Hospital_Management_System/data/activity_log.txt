@@ -1,0 +1,3 @@
+[Tue Dec 16 21:09:38 2025] Displayed all patients
+[Tue Dec 16 21:09:28 2025] Data loaded from files
+[Tue Dec 16 21:09:28 2025] System initialized with sample departments
