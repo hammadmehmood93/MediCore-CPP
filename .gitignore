@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Linux executables
+main
+hms
+
+# Windows
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
